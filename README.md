@@ -11,4 +11,5 @@ In this part I retrieved the values of an entity's particular attribute, and all
 
 
 
+
 *Note: The HTML, CSS, and JavaScript code was supplied from the co-collaborating class, Client-Side Web Programming.*
