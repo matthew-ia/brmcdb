@@ -1,5 +1,6 @@
 # brmcdb
 Blue Ridge Music Center database project
+[Link to published article about the project](http://www.news.appstate.edu/2016/12/20/computer-science-students/ "Story on CS Students at App State & BRMC.") 
 
 1. BRMCDB - Event/Weather Info
 ------------------------------
