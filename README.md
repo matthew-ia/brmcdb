@@ -12,7 +12,7 @@ For this part of the project, I implemented the retrieval of certain entity attr
     
 2. BRMCDB -  Update/Add Entry Locations
 ---------------------------------------
-In this part I retrieved the values of an entity's particular attribute, and allowed the user to update or add new values for that attribute. ![Link](http://student.cs.appstate.edu/aliceami/cs3430/marathon/Lap7/update_entry.php?entry_location_1=Bridge+Gate&entry_location_2=Hill+Gate&entry_location_3=Rock+Gate&entry_location_4=Water+Gate&entry_location_5=Fire+Gate "Update Entry Locations Page")
+In this part I retrieved the values of an entity's particular attribute, and allowed the user to update or add new values for that attribute. [Link](http://student.cs.appstate.edu/aliceami/cs3430/marathon/Lap7/update_entry.php?entry_location_1=Bridge+Gate&entry_location_2=Hill+Gate&entry_location_3=Rock+Gate&entry_location_4=Water+Gate&entry_location_5=Fire+Gate "Update Entry Locations Page"){:target="_blank"}
 
 ![Screenshot](https://raw.githubusercontent.com/mialicea/brmcdb/master/update_entry.png)
 
